@@ -1,0 +1,21 @@
+p.odd-numbers {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+div#even-number {
+    color: rgb(0, 0, 255);
+    font-size: xx-large;
+}
+
+p.odd-numbers.cooler {
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+div#second-even-number {
+    background-color: rgb(144, 238, 144);
+    font-size: x-large;
+    font-weight: 800;
+}
+
